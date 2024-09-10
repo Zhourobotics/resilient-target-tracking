@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launch>
+
+  <arg name="world_frame_id" default="world"/>
+  <arg name="use_pcd" default="false"/>
+
+
+  <node name="rviz" pkg="rviz" type="rviz" output="screen"
+    args="-d $(find tracker)/config/sim.rviz"> 
+  </node>
+  
+
+</launch>
