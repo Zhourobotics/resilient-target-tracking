@@ -8,7 +8,7 @@ A resilient and adaptive multi-robot target tracking framework with sensing and 
 __Authors__: [Peihan Li](https://scholar.google.com/citations?user=Qg7-Gr0AAAAJ&hl=en), 
 [Yuwei Wu](https://github.com/yuwei-wu), [Jiazhen Liu](https://scholar.google.com/citations?user=x4OzGCwAAAAJ&hl=en), Gaurav S. Sukhatmem, and Vijay Kumar, and [Lifeng Zhou](https://zhourobotics.github.io/)
 
-__Video Links__:  [Youtube]()
+__Video Links__:  [Youtube](https://www.youtube.com/watch?v=ARMUzIKwsvc)
 
 
 ## Prerequisites
