@@ -10,6 +10,19 @@ __Authors__: [Peihan Li](https://scholar.google.com/citations?user=Qg7-Gr0AAAAJ&
 
 __Video Links__:  [Youtube](https://www.youtube.com/watch?v=ARMUzIKwsvc)
 
+__Related Paper__: Peihan Li, Yuwei Wu, Jiazhen Liu, Gaurav S. Sukhatme, Vijay Kumar and Lifeng Zhou. “Resilient and Adaptive Replanning for Multi-Robot Target Tracking with Sensing and Communication Danger Zones.” (2024).
+
+```
+@misc{li2024resilientadaptivereplanningmultirobot,
+      title={Resilient and Adaptive Replanning for Multi-Robot Target Tracking with Sensing and Communication Danger Zones}, 
+      author={Peihan Li and Yuwei Wu and Jiazhen Liu and Gaurav S. Sukhatme and Vijay Kumar and Lifeng Zhou},
+      year={2024},
+      eprint={2409.11230},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2409.11230}, 
+}
+```
 
 ## Prerequisites
 
